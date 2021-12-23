@@ -1,0 +1,17 @@
+.nav {
+  background-color: whitesmoke;
+  padding: 20px 40px;
+  border-top: 1px solid whitesmoke;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.nav_list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_link {
+  color: inherit;
+}
